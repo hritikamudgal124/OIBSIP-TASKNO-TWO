@@ -1,3 +1,4 @@
 # OIBSIP-TASKNO-TWO-TRIBUTE-PAGE (LEVEL 2)
 
 REPOSITORY LINK : https://github.com/hritikamudgal124/OIBSIP-TASKNO-TWO
+TRIBUTE_PAGE LINK : https://hritikamudgal124.github.io/OIBSIP-TASKNO-TWO/
